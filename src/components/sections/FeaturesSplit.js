@@ -50,7 +50,7 @@ const FeaturesSplit = ({
 
   const sectionHeader = {
     title: "Workflow that just works",
-    paragraph: "Best in Class Service.",
+    paragraph: "Best in class service",
   };
 
   return (
